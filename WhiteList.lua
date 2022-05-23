@@ -1,5 +1,1 @@
-local whitelist = {
-	        2538031231, --6roli
-	        738158730, 
-	    }
-return whitelist
+player.UserId == 738158730 or player.UserId == 2538031231 
